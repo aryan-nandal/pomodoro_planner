@@ -1,0 +1,9 @@
+{
+  "name": "pomodoro-planner-seeder",
+  "version": "1.0.0",
+  "description": "Seeder script for the Task Planner integration tests.",
+  "main": "seed.js",
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}
