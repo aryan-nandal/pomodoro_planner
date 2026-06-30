@@ -5,6 +5,12 @@
 Plan your day, focus on one task at a time with the Pomodoro technique, and watch your
 productivity stats build up. Data syncs per-user through Firebase Auth and Cloud Firestore.
 
+> [!IMPORTANT]
+> **🧪 Automated End-to-End Testing** — the highlight of this project is a **sandboxed E2E test
+> system** that runs the real app against a real Firebase backend (no mocks) in Docker.
+>
+> **→ Read the design & architecture doc: [`docs/e2e-integration-testing.md`](docs/e2e-integration-testing.md)**
+
 ## Features
 
 - **Task Planner** — create tasks with categories, priorities, subtasks, and scheduling; search and an archive of past tasks. Completing all subtasks auto-completes the task.
