@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641886610817",
+    "project_id": "task-planner-c03ea",
+    "storage_bucket": "task-planner-c03ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641886610817:android:c7ad1bb2d0d21942a53480",
+        "android_client_info": {
+          "package_name": "com.example.pomodoro_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXcQDveKYU__oBaOBhmLYnM5o38XtaDQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
